@@ -1,26 +1,31 @@
 # Integrating Croct Into Your Application
 
-This document explains how to integrate Croct into your apps.
+Croct is a SaaS platform that provides technology for real-time personalization. We provide unified and managed customer data for marketers, product managers, and software engineers to generate insights, toggle features to meet each customer's unique needs, and drive revenue with timely and relevant messages. The platform also allows developers to focus on building great products instead of expensive custom infrastructure.
 
-Croct is a SaaS platform that provides technology for real-time personalization. By working with Croct, companies can take full advantage of first-party customer data to create a positive customer experience and increase their Return on Investment. 
-
-This document is intended for people who are familiar with JavaScript.
+This documentation will guide developers through the process of integrating Croct into their applications.
 
 > ⚠️ **Important** 
 > 
 > This flow is  the same for web (Vanilla JavaScript, React, Vue, NextJs, etc.) and app (iOS and Android).
 
-Let's start!
+Ready? So let's start!
 
 ## Table of Contents
 
-- [Gathering Data](https://github.com/walerya/Croct-TW-Challenge/edit/main/README.md#gathering-data)
-- Defining a Personalization Strategy and Goal
-- Implementing
+- **[Gathering Data](https://github.com/walerya/Croct-TW-Challenge/edit/main/README.md#gathering-data)**  
+Learn how to gather the information that will fuel the personalization engine.
+
+- **[Defining a Personalization Strategy and Goal](https://github.com/walerya/Croct-TW-Challenge/edit/main/README.md#gathering-data)**  
+Learn how to define what will be customized and which metrics will help.
+
+- **[Implementing](https://github.com/walerya/Croct-TW-Challenge/edit/main/README.md#gathering-data)**  
+See how to implement, track and measure results.
 
 ## Gathering Data
-Gathering data helps us provide unified customer data and rotate resources to meet each customer's unique needs and monetize timely and relevant messaging. For this, it is necessary to gather the information that will feed the personalization engine.
+
+Data collection helps us provide unified customer data and rotate resources to meet each customer's unique needs and monetize timely and relevant news. For this, it is necessary to collect the information that will be provided to the custom engine.
 
 > 💡️️ **Hint**
 >
 >It’s common to all other steps.
+
